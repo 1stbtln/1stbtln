@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @1stbtln
 - 👀 I’m interested in Software Dev and Application Design
 - 🌱 I’m currently attending Ivy Tech for Software Dev
-- 😄 Pronouns: Not/Gay
 - ⚡ Fun fact: I'm pretty good at Pubg, and I hold a commcercial UAS pilot license
 
 <!---
